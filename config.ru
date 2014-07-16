@@ -1,0 +1,2 @@
+require 'gohuntterence'
+run Gohuntterrence
